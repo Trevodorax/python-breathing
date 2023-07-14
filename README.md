@@ -1,5 +1,5 @@
 # python-breathing
-Simple app to do some breathing exercises
+Simple app with graphical interface to do some breathing exercises
 
 # Run it locally
 - install python3
